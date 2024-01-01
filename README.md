@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahsan Mughal</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
 <img align="right" width="400" alt="coding" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
