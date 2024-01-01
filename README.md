@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/ahsanwebengr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-mughal-4563a923b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/19514796/ahsan-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/19514796/ahsan-mughal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahsanwebengr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsanmughal512/" height="30" width="40" /></a>
-<a href="https://instagram.com/ahsan__05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan__05/" height="30" width="40" /></a>
+<a href="https://instagram.com/ahsan__ig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan__05/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
